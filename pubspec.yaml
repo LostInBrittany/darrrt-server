@@ -1,0 +1,4 @@
+name: DartServer
+description: Dart Flight School Brest
+dependencies:
+  http_server: 0.9.1
